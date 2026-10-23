@@ -30,5 +30,6 @@ Dieses Plugin ermöglicht den direkten Import von GP4, WAD, DAT Dateien aus dem 
 ---
 
 ## Topics
+https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647/<br />
 
 ## Blender Extensions
