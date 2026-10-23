@@ -9,7 +9,7 @@ This plugin allows the direct import of GP4, WAD, DAT files from the classic gam
 
 | Feature | Status |
 |:---|:---|
-| 3D Models Import | ✅ |
+| 3D Models Import (*.GP4, *.WAD)| ✅ |
 | Material Import | ✅ |
 | TV Cam Import | ✅ |
 | *.DAT Import | ✅ |
@@ -22,7 +22,7 @@ Dieses Plugin ermöglicht den direkten Import von GP4, WAD, DAT Dateien aus dem 
 
 | Feature | Status |
 |---|---|
-| 3D-Modelle Import | ✅ |
+| 3D-Modelle Import (*.GP4, *.WAD)| ✅ |
 | Material Import | ✅ |
 | TV Kamera Import| ✅ |
 | *.DAT Import | ✅ |
